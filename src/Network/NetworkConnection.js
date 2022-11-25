@@ -26,7 +26,7 @@ import Internet from '../Network/Connected.png';
       if (condition === 'online') {
         const webPing = setInterval(
           () => {
-            fetch('www.google.com')
+            fetch('www.google.co.in/')
               .then(() => {
                 this.setState({ isConnected: false }, () => {
                   this.setState({ isVisible: true })
