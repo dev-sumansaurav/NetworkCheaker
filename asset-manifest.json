@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NetworkCheaker/static/css/main.90c2df1e.css",
+    "main.js": "/NetworkCheaker/static/js/main.f4a42535.js",
+    "static/media/Connected.png": "/NetworkCheaker/static/media/Connected.0e42bc8e954b7efdf693.png",
+    "static/media/no-internet.png": "/NetworkCheaker/static/media/no-internet.9da4d53dd8e139ddcea9.png",
+    "index.html": "/NetworkCheaker/index.html",
+    "main.90c2df1e.css.map": "/NetworkCheaker/static/css/main.90c2df1e.css.map",
+    "main.f4a42535.js.map": "/NetworkCheaker/static/js/main.f4a42535.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90c2df1e.css",
+    "static/js/main.f4a42535.js"
+  ]
+}
