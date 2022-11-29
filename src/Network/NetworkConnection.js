@@ -50,12 +50,12 @@ import Internet from '../Network/Connected.png';
         <div>
           {
             isVisible && (<div className="internet-connect">
-              <img className='InternetConnect' src={Internet} alt="Internet"></img>
+              <img className='InternetConnect' src={Internet} alt=""></img>
               <p>PACE OS Connected</p>
             </div>)
           }
           {isConnected && (<div className="internet-error">
-            <img className='noInternet' src={NoInternet} alt="NoInternet"></img>
+            <img className='noInternet' src={NoInternet} alt=""></img>
             <p>PACE OS Connection Lost</p>
           </div>)
           }
